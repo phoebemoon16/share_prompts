@@ -1,3 +1,10 @@
+/*
+ * @Author: wanghh
+ * @Date: 2024-03-18 09:35:07
+ * @LastEditors: wanghh
+ * @LastEditTime: 2024-03-18 11:12:48
+ * @Description:
+ */
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
